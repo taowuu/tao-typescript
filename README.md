@@ -3,7 +3,7 @@ Taowuu 的 TypeScript 全解
 
 ## 初始化环境
 - `npm install typescript@3.6.4 -g`
-- `npm install -g ts-node@8.4.1`
+- `npm install ts-node@8.4.1 -g`
 
 ## 静态类型
 ```ts
